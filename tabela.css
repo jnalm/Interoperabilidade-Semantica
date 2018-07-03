@@ -1,0 +1,12 @@
+.container {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+}
+
+#teste {
+	font-weight: normal;
+}
+
+tr {
+    cursor: pointer;
+}

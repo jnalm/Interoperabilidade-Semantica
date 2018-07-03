@@ -1,0 +1,38 @@
+.container {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+}
+
+tr {
+    cursor: pointer;
+}
+
+#teste {
+	font-weight: normal;
+}
+
+td a:hover, a:visited, a:link, a:active {
+	color: black;
+	text-decoration: none;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif !important;
+}
+
+.list-group a:hover, a:visited, a:link, a:active {
+	color: black;
+	text-decoration: none;
+}
+
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   height: 5%;
+   width: 100%;
+   background-color: #9dfc92;
+   color: grey;
+   text-align: center;
+}
